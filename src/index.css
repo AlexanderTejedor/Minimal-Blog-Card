@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+@theme {
+    --color-purple: #7C19EE;
+    --color-light-purple: #F2EAFD;
+    --color-light-gray: #E5EAF0;
+    --color-white-2:#FAFAF9;
+    --color-dark-blue: #20293A;
+    --color-dark-gray: #394150;
+
+    --font-display: "Sora", sans-serif;;
+}
