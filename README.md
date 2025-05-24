@@ -1,12 +1,61 @@
-# React + Vite
+<h1 align="center"> Minimal Blog Card | devChallenges</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div align="center">
+   Solution for a challenge <a href="https://devchallenges.io/challenge/minimal-blog-card" target="_blank">Minimal Blog Card</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
+</div>
 
-Currently, two official plugins are available:
+<div align="center">
+  <h3>
+    <a href="{https://your-demo-link.your-domain}">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="{https://your-url-to-the-solution}">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenge/minimal-blog-card">
+      Challenge
+    </a>
+  </h3>
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<!-- TABLE OF CONTENTS -->
 
-## Expanding the ESLint configuration
+## Table of Contents
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [Table of Contents](#table-of-contents)
+- [Overview](#overview)
+  - [What I learned](#what-i-learned)
+  - [Useful resources](#useful-resources)
+  - [Built with](#built-with)
+- [Author](#author)
+
+<!-- OVERVIEW -->
+
+## Overview
+
+![screenshot](./src/assets/screencapture.png)
+
+### What I learned
+
+I learned new ways to work on projects, and more on this new platform.
+
+### Useful resources
+
+- [Google Fonts](https://fonts.google.com/) - This helped me to use external fonts instead of local ones, so that everyone can identify the type of font I used for this challenge.
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- [React](https://reactjs.org/)
+- [Tailwind](https://tailwindcss.com/)
+
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
+
+## Author
+
+- GitHub [@AlexanderTejedor](https://github.com/AlexanderTejedor?tab=repositories})
